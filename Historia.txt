@@ -1,6 +1,1 @@
- Esta es la historia de Laurence
-
- Laurence tiene 28 años y nacio en Laurencia, 
- viviendo en todo el mundo 
-
- Hoy hablaremos de su historia
+Este es el archivo de la rama Master :D 
